@@ -1,0 +1,20 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.info {
+    float: right;
+}
+.FunFacts {
+text-align: center;
+}
+a:hover {
+    background-color:bisque;
+}
+#title {
+    position: relative;
+    left: 100px;
+}
+form {
+    position:absolute
+    right: 200px;
+}
